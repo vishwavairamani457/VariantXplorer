@@ -1,0 +1,30 @@
+# PyInstaller
+dist/
+build/
+__pycache__/
+*.spec
+*.pyc
+
+# Large files
+*.exe
+*.dll
+*.bam
+*.sam
+*.fastq
+*.fq
+*.fasta
+*.fa
+*.gz
+*.zip
+*.tar
+*.bin
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+.env
+venv/
+env/
+*.egg-info/
